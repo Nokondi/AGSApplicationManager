@@ -1,0 +1,11 @@
+[27-Mar-2017 13:44:43 America/Denver] PHP Fatal error:  Call to undefined function UNHEX() in /home1/allcapsc/public_html/workshop/formtools/global/code/submissions.php on line 70
+[27-Mar-2017 13:44:46 America/Denver] PHP Fatal error:  Call to undefined function UNHEX() in /home1/allcapsc/public_html/workshop/formtools/global/code/submissions.php on line 70
+[27-Mar-2017 14:07:35 America/Denver] PHP Fatal error:  Call to undefined function UNHEX() in /home1/allcapsc/public_html/workshop/formtools/global/code/submissions.php on line 70
+[27-Mar-2017 14:08:37 America/Denver] PHP Fatal error:  Call to undefined function UNHEX() in /home1/allcapsc/public_html/workshop/formtools/global/code/submissions.php on line 70
+[27-Mar-2017 18:58:36 America/Denver] PHP Fatal error:  Call to undefined function uuid_short() in /home1/allcapsc/public_html/workshop/formtools/global/code/submissions.php on line 70
+[27-Mar-2017 18:58:38 America/Denver] PHP Fatal error:  Call to undefined function uuid_short() in /home1/allcapsc/public_html/workshop/formtools/global/code/submissions.php on line 70
+[28-Mar-2017 10:39:30 America/Denver] PHP Fatal error:  Call to undefined function uuid_short() in /home1/allcapsc/public_html/workshop/formtools/global/code/submissions.php on line 34
+[28-Mar-2017 10:39:37 America/Denver] PHP Fatal error:  Call to undefined function uuid_short() in /home1/allcapsc/public_html/workshop/formtools/global/code/submissions.php on line 34
+[28-Mar-2017 10:52:08 America/Denver] PHP Fatal error:  Call to undefined function uuid_short() in /home1/allcapsc/public_html/workshop/formtools/global/code/submissions.php on line 34
+[28-Mar-2017 10:52:13 America/Denver] PHP Fatal error:  Call to undefined function uuid_short() in /home1/allcapsc/public_html/workshop/formtools/global/code/submissions.php on line 34
+[28-Mar-2017 10:54:15 America/Denver] PHP Fatal error:  Call to undefined function uuid_short() in /home1/allcapsc/public_html/workshop/formtools/global/code/submissions.php on line 34
