@@ -1,0 +1,4 @@
+[29-Nov-2017 16:43:18 America/Denver] PHP Fatal error:  Class 'DbConn' not found in /home1/allcapsc/public_html/workshop/login/includes/loginform.php on line 3
+[29-Nov-2017 16:43:21 America/Denver] PHP Fatal error:  Class 'DbConn' not found in /home1/allcapsc/public_html/workshop/login/includes/newuserform.php on line 3
+[29-Nov-2017 16:43:24 America/Denver] PHP Fatal error:  Class 'DbConn' not found in /home1/allcapsc/public_html/workshop/login/includes/selectemail.php on line 3
+[29-Nov-2017 16:43:25 America/Denver] PHP Fatal error:  Class 'DbConn' not found in /home1/allcapsc/public_html/workshop/login/includes/verify.php on line 3

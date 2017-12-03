@@ -17,7 +17,7 @@ if (isset($_SESSION['username'])) {
 
   <body>
     <div class="container">
-
+    <div style="width: 662px; margin: auto;"><img src="../ags_logo.png" width="662px" height="221px"></div>
       <form class="form-signin" name="form1" method="post" action="checklogin.php">
         <h2 class="form-signin-heading">Please sign in</h2>
         <input name="myusername" id="myusername" type="text" class="form-control" placeholder="Username" autofocus>

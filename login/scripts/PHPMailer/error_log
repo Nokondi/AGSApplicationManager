@@ -1,0 +1,2 @@
+[29-Nov-2017 17:02:00 America/Denver] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home1/allcapsc/public_html/workshop/login/scripts/PHPMailer/get_oauth_token.php on line 18
+[29-Nov-2017 17:02:00 America/Denver] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/allcapsc/public_html/workshop/login/scripts/PHPMailer/get_oauth_token.php on line 18
